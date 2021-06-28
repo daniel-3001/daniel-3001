@@ -4,7 +4,8 @@
   <a href="https://daniel-3001.github.io/Home/">Website</a> •
   <a href="mailto:rojsan.daniel@gmail.com">Mail</a> •
 </p>
-![](plot_anim.gif)
+
+![polo](plot_anim.gif)
 
 <a href="https://github.com/daniel-3001/daniel-3001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-3001&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
