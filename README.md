@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src="plot_anim.gif">
+<img src="fondo.gif">
 </p>
   
 <a href="https://github.com/daniel-3001/daniel-3001">
