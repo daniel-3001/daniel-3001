@@ -8,6 +8,6 @@
 
 
 <a href="https://github.com/niekvleeuwen/niekvleeuwen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-3001&hide=,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-3001&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
