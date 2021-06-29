@@ -1,13 +1,10 @@
-<h1 align="center">Bienvenidos 👋</h1>
+<p align="center">
+<img src="fondo33.gif">
+</p>
 
 <p align="center">
   <a href="https://daniel-3001.github.io/Home/">Website</a> •
   <a href="mailto:rojsan.daniel@gmail.com">Mail</a> •
-</p>
-
-
-<p align="center">
-<img src="fondo.gif">
 </p>
   
 <a href="https://github.com/daniel-3001/daniel-3001">
